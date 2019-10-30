@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: February 28, 2019
+### Day 1: October 28, 2019
 ##### 
 
 **Today's Progress**: Migrated production build of Playthru app from Heroku to Now
@@ -9,11 +9,13 @@
 
 **Link to work:** [Playthru - DJ/ Song Recommendation App](https://github.com/jackbittiner/play-thru)
 
-### Day 2: February 29, 2019
+### Day 2: October 29, 2019
 ##### 
 
-**Today's Progress**: 
-**Thoughts:** 
+**Today's Progress**: Not a lot of code but a good impact. Researched git config and set up Playthru to use git pull-rebase as default.
 
-**Link to work:** 
+**Thoughts:** Was good to find a way to do this to create consistency between people working on the app since a few people are now involved and we all prefer working in a trunk based way. Have had some feedback from @richardkotze that prestart is maybe not the best place for it - maybe preinstall since it only needs to run once? 
+Resource on trunk based dev & setting git pull-rebase config: https://megakemp.com/2019/03/20/the-case-for-pull-rebase/
+
+**Link to work:** https://github.com/jackbittiner/play-thru/commit/16f1a4ab3d7a246c5c6ae16dd3d0aece1493f6d1
 
