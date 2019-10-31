@@ -19,3 +19,12 @@ Resource on trunk based dev & setting git pull-rebase config: https://megakemp.c
 
 **Link to work:** https://github.com/jackbittiner/play-thru/commit/16f1a4ab3d7a246c5c6ae16dd3d0aece1493f6d1
 
+### Day 3: October 30, 2019
+##### 
+
+**Today's Progress**: Learned how to run up a react native app with Expo and Expo CLI - also learned that Android SDK's are written in Java these things may not play well together easily  
+
+**Thoughts:** Probably spent a bit too much time on today - setup a project with ExpoCLI which was really cool, but struggling with understanding about app fingerprints for the spotify SDK and realising it's all written in Java, so might not even be possible to integrate with React Native, damped the pleasure of seeing the react native app hot reload on my phone as I change the code. A lot more setup and less progress that I anticipated. 
+
+**Link to work:** https://github.com/tobywinter/playthru-mobile
+
