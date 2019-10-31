@@ -34,7 +34,7 @@ Resource on trunk based dev & setting git pull-rebase config: https://megakemp.c
 
 **Today's Progress**: Spent time this evening refreshing my understanding of the render props method of component reuse and worked throught a big refactor of some complex step management code   
 
-**Thoughts:** Although technically work from 'work' the problem was tangled enough that it was really satisfying to solve so I used my learning time today and this evening to work through it and feel I accomplished a lot and reminded myself how renderProps works as a pattern. Even though I'm likely to be able to use hooks in our codebase soon as I am in others - it's really good to cement my understanding of ways that may become 'legacy' as they won't be going anywhere in old codebases anytime soon. 
+**Thoughts:** Although technically work from 'work' the problem was tangled enough that it was really satisfying to solve so I used my learning time today and this evening to work through it and feel I accomplished a lot and reminded myself how renderProps works as a pattern. (resource here: https://reactjs.org/docs/render-props.html) Even though I'm likely to be able to use hooks in our codebase soon as I am in others - it's really good to cement my understanding of ways that may become 'legacy' as they won't be going anywhere in old codebases anytime soon. 
 
 
 **Link to work:** https://github.com/findmypast/titan/commit/37775187f2d02dca4a3cda25bd420c31dbf44f99 (private repo)
