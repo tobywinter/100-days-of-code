@@ -38,3 +38,16 @@ Resource on trunk based dev & setting git pull-rebase config: https://megakemp.c
 
 
 **Link to work:** https://github.com/findmypast/titan/commit/37775187f2d02dca4a3cda25bd420c31dbf44f99 (private repo)
+
+
+### Day 5: November 4, 2019
+##### 
+
+**Today's Progress**: Restarted the react-native project using the full build instead of the Expo version - made good progres setting up the react-native project, adding it to x-code and working through some of the config to get the iOS Spotify-SDK working with my project    
+
+**Thoughts:** Having missed a couple of days because of a weekend away I was keen to jump back at the task of figuring out how to use an SDK in a react-native app. The documentation for doing this with react native projects isn't as specific as I had hoped and relys more on xcode than I'm used to with developing web-apps. But made some good progress and it's just a case of being a real detective to find out where config has to go and navigate the environment I haven't used before. Also some of the documentation seems out of sync with how xcode looks now so potentially it's out of date and things are in different places now too making things a bit more difficult. 
+
+**Link to work:** 
+[Restart of React-Native App](https://github.com/tobywinter/playthru-mobile/commit/30d8c05a181bb4b34b0a5603308624ec55e11494)
+[Adding config to iOS Section](https://github.com/tobywinter/playthru-mobile/commit/901f06abebc4cc0e35f1f4ff6e8101c5952a9745)
+
