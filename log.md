@@ -51,3 +51,10 @@ Resource on trunk based dev & setting git pull-rebase config: https://megakemp.c
 [Restart of React-Native App](https://github.com/tobywinter/playthru-mobile/commit/30d8c05a181bb4b34b0a5603308624ec55e11494)
 [Adding config to iOS Section](https://github.com/tobywinter/playthru-mobile/commit/901f06abebc4cc0e35f1f4ff6e8101c5952a9745)
 
+### Day 6: November 6, 2019
+##### 
+
+**Today's Progress**: Read up on the difference between npm and npx and why they are useful in different situations. More refactor practice.    
+
+**Thoughts:** Worked on a private repo today but the main learning was investigating what the difference between the npm/npx commands are as they often seem interchangable and they are the kind of command we tend to run without querying how they work or what they do just because the docs on how to set something up tells us to. 
+
