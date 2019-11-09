@@ -58,3 +58,11 @@ Resource on trunk based dev & setting git pull-rebase config: https://megakemp.c
 
 **Thoughts:** Worked on a private repo today but the main learning was investigating what the difference between the npm/npx commands are as they often seem interchangable and they are the kind of command we tend to run without querying how they work or what they do just because the docs on how to set something up tells us to. 
 
+### Day 7: November 7, 2019
+##### 
+
+**Today's Progress**: Added error handling for non-premium spotify accounts using Playthru - extended graphql layer to return premium/free status and added an instructional page to handle the situation. 
+
+**Thoughts:** Simple changes today - nothing too challenging - but only because of our experience learning the ins and outs of graphql and the spotify api over the past few months. Great how practice and experience speeds these things up! 
+
+**Link to work:** [Playthru](https://github.com/jackbittiner/play-thru/commit/f3a3ebd8d6694310cc41b1729f943a95f6ceeced)
