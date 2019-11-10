@@ -85,3 +85,14 @@ Resource on trunk based dev & setting git pull-rebase config: https://megakemp.c
 **Thoughts:** After reading a couple of the solutions to yesterdays Kata I realised there were some handy points of syntax in the range function e.g. it starts at 0 by default. And the array slicing colon sytax also had handy default for beginning and end meaning I didn't need to specify those either. Was great really digging down into the other solutions as it helped me see the thinking behind them and simplify my own. 
 
 **Link to work:** [Refactored kata Solution](https://www.codewars.com/kata/reviews/567ad7a5e9a74b5cba000036/groups/5dc84d6ba613a800013fc43c)
+
+
+
+### Day 10: November 10, 2019
+##### 
+
+**Today's Progress**: Continued working on Python Kata's - completed this [Array.diff codewars kata](https://www.codewars.com/kata/equal-sides-of-an-array/python)
+
+**Thoughts:**  Discovered and implimented a List Comprehension which is pretty different to javascript syntax but not too tricky to grasp once some of the equivolancys are made between that and for/if/filter functions in JS/Ruby. Somehow managed to impliment a very idoimatic answer which was satisfying. On route to that solution I explored Collections, Lists and Sets which all have unique behaviors I'm sure I'll learn more about as I continue. 
+
+**Link to work:** [Python Array Diff Kata Solution - Codewars](https://www.codewars.com/kata/reviews/5520ac91933cd0a1560002d2/groups/5520cb79ecb433d4890003a0)
