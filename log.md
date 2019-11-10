@@ -66,3 +66,12 @@ Resource on trunk based dev & setting git pull-rebase config: https://megakemp.c
 **Thoughts:** Simple changes today - nothing too challenging - but only because of our experience learning the ins and outs of graphql and the spotify api over the past few months. Great how practice and experience speeds these things up! 
 
 **Link to work:** [Playthru](https://github.com/jackbittiner/play-thru/commit/f3a3ebd8d6694310cc41b1729f943a95f6ceeced)
+
+### Day 8: November 8, 2019
+##### 
+
+**Today's Progress**: Solved first Python codewars code kata - [Equal Sides Of An Array (Python)](https://www.codewars.com/kata/equal-sides-of-an-array/python)
+
+**Thoughts:** I wanted to start improving my Python skills in preparation for a new project. Working through the challenge was great problem solving practice and improved my knowledge (in python) of a number of array/list methods, the convention for variable and method naming / definition, how to import a python module (e.g. math), and some built in python methods (e.g. print, sum, len, range).
+
+**Link to work:** [Kata Solution](https://www.codewars.com/kata/reviews/567ad7a5e9a74b5cba000036/groups/5dc76d8fcb9f1900013b2fd2)
