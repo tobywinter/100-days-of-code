@@ -72,6 +72,6 @@ Resource on trunk based dev & setting git pull-rebase config: https://megakemp.c
 
 **Today's Progress**: Solved first Python codewars code kata - [Equal Sides Of An Array (Python)](https://www.codewars.com/kata/equal-sides-of-an-array/python)
 
-**Thoughts:** I wanted to start improving my Python skills in preparation for a new project. Working through the challenge was great problem solving practice and improved my knowledge (in python) of a number of array/list methods, the convention for variable and method naming / definition, how to import a python module (e.g. math), and some built in python methods (e.g. print, sum, len, range).
+**Thoughts:** I wanted to start improving my Python skills in preparation for a new project. Working through the challenge was great problem solving practice and improved my knowledge (in python) of a number of array/list methods, the convention for variable and method naming / definition, how to import a python module (e.g. math), and some built in python methods (e.g. print, sum, len, range) and while & for loops. 
 
 **Link to work:** [Kata Solution](https://www.codewars.com/kata/reviews/567ad7a5e9a74b5cba000036/groups/5dc76d8fcb9f1900013b2fd2)
