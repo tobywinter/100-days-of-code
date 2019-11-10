@@ -75,3 +75,13 @@ Resource on trunk based dev & setting git pull-rebase config: https://megakemp.c
 **Thoughts:** I wanted to start improving my Python skills in preparation for a new project. Working through the challenge was great problem solving practice and improved my knowledge (in python) of a number of array/list methods, the convention for variable and method naming / definition, how to import a python module (e.g. math), and some built in python methods (e.g. print, sum, len, range) and while & for loops. 
 
 **Link to work:** [Kata Solution](https://www.codewars.com/kata/reviews/567ad7a5e9a74b5cba000036/groups/5dc76d8fcb9f1900013b2fd2)
+
+
+### Day 9: November 9, 2019
+##### 
+
+**Today's Progress**: Refactored yesterdays Kata solution - [Equal Sides Of An Array (Python)](https://www.codewars.com/kata/equal-sides-of-an-array/python)
+
+**Thoughts:** After reading a couple of the solutions to yesterdays Kata I realised there were some handy points of syntax in the range function e.g. it starts at 0 by default. And the array slicing colon sytax also had handy default for beginning and end meaning I didn't need to specify those either. Was great really digging down into the other solutions as it helped me see the thinking behind them and simplify my own. 
+
+**Link to work:** [Refactored kata Solution](https://www.codewars.com/kata/reviews/567ad7a5e9a74b5cba000036/groups/5dc84d6ba613a800013fc43c)
