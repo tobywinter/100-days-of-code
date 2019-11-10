@@ -91,7 +91,7 @@ Resource on trunk based dev & setting git pull-rebase config: https://megakemp.c
 ### Day 10: November 10, 2019
 ##### 
 
-**Today's Progress**: Continued working on Python Kata's - completed this [Array.diff codewars kata](https://www.codewars.com/kata/equal-sides-of-an-array/python)
+**Today's Progress**: Continued working on Python Kata's - completed this [Array.diff codewars kata](https://www.codewars.com/kata/array-dot-diff/python)
 
 **Thoughts:**  Discovered and implimented a List Comprehension which is pretty different to javascript syntax but not too tricky to grasp once some of the equivolancys are made between that and for/if/filter functions in JS/Ruby. Somehow managed to impliment a very idoimatic answer which was satisfying. On route to that solution I explored Collections, Lists and Sets which all have unique behaviors I'm sure I'll learn more about as I continue. 
 
