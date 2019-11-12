@@ -96,3 +96,14 @@ Resource on trunk based dev & setting git pull-rebase config: https://megakemp.c
 **Thoughts:**  Discovered and implimented a List Comprehension which is pretty different to javascript syntax but not too tricky to grasp once some of the equivolancys are made between that and for/if/filter functions in JS/Ruby. Somehow managed to impliment a very idoimatic answer which was satisfying. On route to that solution I explored Collections, Lists and Sets which all have unique behaviors I'm sure I'll learn more about as I continue. 
 
 **Link to work:** [Python Array Diff Kata Solution - Codewars](https://www.codewars.com/kata/reviews/5520ac91933cd0a1560002d2/groups/5520cb79ecb433d4890003a0)
+
+
+
+### Day 11: November 11, 2019
+##### 
+
+**Today's Progress**: Continued working on Python Kata's - completed this [Format a string of names](https://www.codewars.com/kata/format-a-string-of-names-like-bart-lisa-and-maggie/python)
+
+**Thoughts:** As much as it's a little weird to be solving simple problems like this - there's no doubt that I'm learning a lot about the basics of Python from each one. The little python I've written before has been primarily through passing parameters to various fairly usable API's to run as a script so didn't involve any kind of data manipulations like loops / arrays, filtering, reducing and if statements etc. I know how to do this stuff in javascript and the logic is the same, but it's good getting comfortable with it in a new language.
+
+**Link to work:** [Format a string of names from a Dictionary of names - Codewars](https://www.codewars.com/kata/format-a-string-of-names-like-bart-lisa-and-maggie/solutions/python/me/best_practice)
