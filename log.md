@@ -107,3 +107,12 @@ Resource on trunk based dev & setting git pull-rebase config: https://megakemp.c
 **Thoughts:** As much as it's a little weird to be solving simple problems like this - there's no doubt that I'm learning a lot about the basics of Python from each one. The little python I've written before has been primarily through passing parameters to various fairly usable API's to run as a script so didn't involve any kind of data manipulations like loops / arrays, filtering, reducing and if statements etc. I know how to do this stuff in javascript and the logic is the same, but it's good getting comfortable with it in a new language.
 
 **Link to work:** [Format a string of names from a Dictionary of names - Codewars](https://www.codewars.com/kata/format-a-string-of-names-like-bart-lisa-and-maggie/solutions/python/me/best_practice)
+
+### Day 12: November 12, 2019
+##### 
+
+**Today's Progress**: Learnt about and added a Prefetch performance enhancement using ApolloGraphql in Playthru to increase the response time. 
+
+**Thoughts:** It's great when you learn something that will stick because you applied it - and it will also be useful as something to think about going forward. Apollo graphql provides an instance of the client when you do a query - which you can use to run a query early - prefetch the data that you predict your user will want and CACHE it. And then if you're right and they take the action you expect - the datas already in the cache and the response can be almost instant. No waiting! Docs here [Imporving performance with prefetch](https://www.apollographql.com/docs/react/performance/performance/#prefetching-data)
+
+**Link to work:** [Playthru performance enhancement](https://github.com/jackbittiner/play-thru/commit/d670459052387e46c96004fc37ae63e98c9c52bd)
