@@ -134,3 +134,13 @@ Resource on trunk based dev & setting git pull-rebase config: https://megakemp.c
 **Thoughts:** Keeping my practice simple as coding at work has been heavy lately - still practicing basics and learning how to use basic functions in python - the variations between the versions means that sometimes finding out how to do simple things from docs is harder than it should be. Took a while to figure out how to join the list of integers when it felt like it should have been the simplist element of the problem to solve. 
 
 **Link to work:** [Form the Minimum - solution](https://www.codewars.com/kata/5ac6932b2f317b96980000ca/solutions/python/me/best_practice)
+
+### Day 15: November 15, 2019
+##### 
+
+**Today's Progress**: Solved [Filter out the geese](https://www.codewars.com/kata/filter-out-the-geese/python)
+
+**Thoughts:** Solved this one in both javascript and python - simple stuff - but still learning fundamentals. This one I learnt about a property of Sets which allows you to get the difference between two sets - however it does not return the results in a reliable order - so in this case I had to use a simple List Compression instead. 
+
+**Link to work:** [Filter out the geese](https://www.codewars.com/kata/57ee4a67108d3fd9eb0000e7/solutions/python)
+
