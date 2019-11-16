@@ -116,3 +116,12 @@ Resource on trunk based dev & setting git pull-rebase config: https://megakemp.c
 **Thoughts:** It's great when you learn something that will stick because you applied it - and it will also be useful as something to think about going forward. Apollo graphql provides an instance of the client when you do a query - which you can use to run a query early - prefetch the data that you predict your user will want and CACHE it. And then if you're right and they take the action you expect - the datas already in the cache and the response can be almost instant. No waiting! Docs here [Imporving performance with prefetch](https://www.apollographql.com/docs/react/performance/performance/#prefetching-data)
 
 **Link to work:** [Playthru performance enhancement](https://github.com/jackbittiner/play-thru/commit/d670459052387e46c96004fc37ae63e98c9c52bd)
+
+### Day 13: November 13, 2019
+##### 
+
+**Today's Progress**: Completed another python kata - recursive function to find length. 
+
+**Thoughts:** Still getting to grips with the basics of the language which are easy to forget when I haven't used it much. 
+
+**Link to work:** [Fun with lists - length](https://www.codewars.com/kata/581e476d5f59408553000a4b/solutions/python/me/best_practice)
