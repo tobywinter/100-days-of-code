@@ -144,3 +144,13 @@ Resource on trunk based dev & setting git pull-rebase config: https://megakemp.c
 
 **Link to work:** [Filter out the geese](https://www.codewars.com/kata/57ee4a67108d3fd9eb0000e7/solutions/python)
 
+
+### Day 16: November 16, 2019
+##### 
+
+**Today's Progress**: Solved [Descending Order kata](https://www.codewars.com/kata/descending-order/python)
+
+**Thoughts:** Still working on python fundamentals, today contending with the problem of splitting a number into individual integers manipulating it, and then turning it back into an integer.
+
+**Link to work:** [Descending Order kata solution](https://www.codewars.com/kata/5467e4d82edf8bbf40000155/solutions/python/me/best_practice)
+
