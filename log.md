@@ -133,4 +133,4 @@ Resource on trunk based dev & setting git pull-rebase config: https://megakemp.c
 
 **Thoughts:** Keeping my practice simple as coding at work has been heavy lately - still practicing basics and learning how to use basic functions in python - the variations between the versions means that sometimes finding out how to do simple things from docs is harder than it should be. Took a while to figure out how to join the list of integers when it felt like it should have been the simplist element of the problem to solve. 
 
-**Link to work:** [Fun with lists - length](https://www.codewars.com/kata/581e476d5f59408553000a4b/solutions/python/me/best_practice)
+**Link to work:** [Form the Minimum - solution](https://www.codewars.com/kata/5ac6932b2f317b96980000ca/solutions/python/me/best_practice)
