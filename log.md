@@ -126,7 +126,7 @@ Resource on trunk based dev & setting git pull-rebase config: https://megakemp.c
 
 **Link to work:** [Fun with lists - length](https://www.codewars.com/kata/581e476d5f59408553000a4b/solutions/python/me/best_practice)
 
-### Day 13: November 13, 2019
+### Day 14: November 14, 2019
 ##### 
 
 **Today's Progress**: Solved [Form the Minimum codewars kata in python](https://www.codewars.com/kata/form-the-minimum/python)
