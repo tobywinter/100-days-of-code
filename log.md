@@ -125,3 +125,12 @@ Resource on trunk based dev & setting git pull-rebase config: https://megakemp.c
 **Thoughts:** Still getting to grips with the basics of the language which are easy to forget when I haven't used it much. 
 
 **Link to work:** [Fun with lists - length](https://www.codewars.com/kata/581e476d5f59408553000a4b/solutions/python/me/best_practice)
+
+### Day 13: November 13, 2019
+##### 
+
+**Today's Progress**: Solved [Form the Minimum codewars kata in python](https://www.codewars.com/kata/form-the-minimum/python)
+
+**Thoughts:** Keeping my practice simple as coding at work has been heavy lately - still practicing basics and learning how to use basic functions in python - the variations between the versions means that sometimes finding out how to do simple things from docs is harder than it should be. Took a while to figure out how to join the list of integers when it felt like it should have been the simplist element of the problem to solve. 
+
+**Link to work:** [Fun with lists - length](https://www.codewars.com/kata/581e476d5f59408553000a4b/solutions/python/me/best_practice)
