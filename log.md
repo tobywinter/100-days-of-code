@@ -166,3 +166,5 @@ Resource on trunk based dev & setting git pull-rebase config: https://megakemp.c
 - [Equal sides of an array kata - javascript](https://www.codewars.com/kata/equal-sides-of-an-array/solutions/javascript/me/best_practice)
 
 - [Very simple Beta kata - SpyText #1](https://www.codewars.com/kata/5dd1632d5ca66e0014e45a5e/solutions/python/me/best_practice)
+
+- [Where my anagrams at? - Kata](https://www.codewars.com/kata/523a86aa4230ebb5420001e1/solutions/python/me/best_practice)
