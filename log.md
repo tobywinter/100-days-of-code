@@ -150,7 +150,15 @@ Resource on trunk based dev & setting git pull-rebase config: https://megakemp.c
 
 **Today's Progress**: Solved [Descending Order kata](https://www.codewars.com/kata/descending-order/python)
 
-**Thoughts:** Still working on python fundamentals, today contending with the problem of splitting a number into individual integers manipulating it, and then turning it back into an integer.
+**Thoughts:** Thought I would try solving one of the katas i've only solved in python in javascript - I feel like some of the algorithmic understandings of the solutions are good to explore in different languages in order to fully understand what they're doing - by solving it in two different languages its kind of cementing that I understand what I'm doing not just accidentally figuring out the answer without getting the inner workings of a solution. Also I don't want to forget my JS chops - I had to quickly remind myself what a vanilla JS `for` loop looks like because I've been writing so many in python recently. 
 
 **Link to work:** [Descending Order kata solution](https://www.codewars.com/kata/5467e4d82edf8bbf40000155/solutions/python/me/best_practice)
 
+
+### Day 17: November 17, 2019
+##### 
+
+**Today's Progress**: Solved [Equal sides of an array kata - javascript](https://www.codewars.com/kata/equal-sides-of-an-array/javascript)
+**Thoughts:** Still working on python fundamentals, today contending with the problem of splitting a number into individual integers manipulating it, and then turning it back into an integer.
+
+**Link to work:**[Equal sides of an array kata - javascript](https://www.codewars.com/kata/equal-sides-of-an-array/solutions/javascript/me/best_practice)
