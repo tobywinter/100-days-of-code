@@ -168,3 +168,16 @@ Resource on trunk based dev & setting git pull-rebase config: https://megakemp.c
 - [Very simple Beta kata - SpyText #1](https://www.codewars.com/kata/5dd1632d5ca66e0014e45a5e/solutions/python/me/best_practice)
 
 - [Where my anagrams at? - Kata](https://www.codewars.com/kata/523a86aa4230ebb5420001e1/solutions/python/me/best_practice)
+
+
+### Day 18: November 18, 2019
+##### 
+
+**Today's Progress**: Solved [Which are in? - kata](https://www.codewars.com/kata/which-are-in/python)
+
+**Thoughts:** **fill in** 
+
+**Link to work:** [Which are in? - kata solution](https://www.codewars.com/kata/550554fd08b86f84fe000a58/solutions/python/me/best_practice)
+
+
+
